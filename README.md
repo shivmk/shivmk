@@ -1,146 +1,240 @@
-# <div align="center">
+<div align="center">
+
+<img src="./Assets/output.gif" width="100%" alt="Shivaji Kattimani"/>
 
 # 👋 Hi, I'm Shivaji Kattimani
 
-### 🚀 Technology Analyst • Full Stack Engineer • System Designer
+### AI Systems Builder • Full Stack Architect • Technology Analyst
 
-Building scalable platforms, AI-powered applications, automation systems, and cloud-native architectures.
+Building AI-powered products, scalable cloud platforms, automation systems, and high-performance applications.
 
-<img src="./Assets/output.gif" width="100%" alt="Shivaji Kattimani Banner"/>
+<p align="center">
+  <a href="https://github.com/shivmk">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shivajikattimani/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://shivajikattimani.com">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shivaji.kattimani@example.com">
+    <img src="https://img.icons8.com/fluency/96/new-post.png" width="50" />
+  </a>
+</p>
 
-<br/>
-
-<a href="shivmk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="[YOUR_LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="[YOUR_INSTAGRAM]">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="[YOUR_WEBSITE]">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=shivmk&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
 ```yaml
 Name: Shivaji Kattimani
 
 Role:
-  Technology Analyst & Full Stack Engineer
+  Technology Analyst
+  Full Stack Architect
+  AI Systems Builder
 
 Experience:
   8+ Years
 
 Specialization:
-  - System Design
-  - Cloud Architecture
   - AI Applications
+  - Cloud Architecture
+  - System Design
   - Web Crawling
   - Automation Platforms
   - Engineering Leadership
 
 Current Focus:
   - AI Agents
-  - LLM Applications
-  - RAG Systems
-  - Vector Search
+  - Multi-Agent Systems
+  - RAG Architectures
+  - Vector Databases
   - Distributed Systems
-  - AWS Architecture
-```
+  - Cloud Native Applications
 
-### 🔭 Currently Working On
-
-* AI-powered business automation platforms
-* Advanced web crawling and data extraction systems
-* LLM-driven applications and workflows
-* Scalable microservice architectures
-* Full-stack SaaS products
-
-### 🌱 Currently Learning
-
-* Multi-Agent AI Systems
-* Advanced RAG Architectures
-* Vector Databases
-* Event-Driven Systems
-* Distributed Infrastructure
-* Production-grade AI Deployments
-
-### 💬 Ask Me About
-
-```text
-Python
-Django
-FastAPI
-React
-AWS
-Docker
-System Design
-PostgreSQL
-MongoDB
-Redis
-Web Crawling
-Automation
-LLMs
-Prompt Engineering
-Vector Databases
-Architecture Reviews
+Leadership:
+  - Led teams of 10+ engineers
+  - Delivered enterprise-scale solutions
+  - Built production systems serving thousands of users
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 💼 Experience Snapshot
 
-## Backend
+* 🏗️ 8+ Years Building Production Software
+* 👨‍💻 Led Engineering Teams of 10+ Developers
+* ☁️ Architected Cloud-Native Platforms on AWS
+* 🤖 Building AI Products, Agents & Automation Systems
+* 📈 Delivered Enterprise Solutions Across Multiple Industries
+* 🕷️ Specialized in Large-Scale Data Collection & Crawling
+* 🚀 Passionate About Product Engineering & System Design
+
+---
+
+# 🔭 Currently Working On
+
+* AI-powered business automation platforms
+* Large-scale web crawling infrastructure
+* LLM-powered lead generation systems
+* Agentic AI workflows
+* Scalable SaaS platforms
+* Cloud-native microservice architectures
+
+---
+
+# 🌱 Currently Learning
+
+* Multi-Agent AI Systems
+* Advanced RAG Architectures
+* Vector Search Optimization
+* Event-Driven Systems
+* Distributed Computing
+* Production AI Infrastructure
+
+---
+
+# 💬 Ask Me About
+
+```text
+Python
+FastAPI
+Django
+React
+System Design
+AWS
+Docker
+PostgreSQL
+MongoDB
+Redis
+Microservices
+Web Crawling
+Automation
+AI Agents
+LLMs
+Prompt Engineering
+Vector Databases
+Product Architecture
+```
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🕷️ All-in-One Scrapper
+
+Enterprise-grade lead generation and data acquisition platform capable of gathering business intelligence from multiple sources.
+
+**Tech Stack**
+
+Python • FastAPI • Playwright • PostgreSQL • Redis • Docker
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Lead Intelligence Platform
+
+AI-powered lead enrichment, classification, research, and prospect intelligence workflows.
+
+**Tech Stack**
+
+OpenAI • LangChain • FastAPI • Vector DBs • PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Native Systems
+
+Scalable cloud architectures built using microservices and containerized infrastructure.
+
+**Tech Stack**
+
+AWS • Docker • Kubernetes • CI/CD • Terraform
+
+</td>
+
+<td width="50%">
+
+### ⚡ Business Automation Solutions
+
+Workflow automation platforms reducing manual operations and increasing productivity.
+
+**Tech Stack**
+
+Python • FastAPI • AWS • PostgreSQL • Redis
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Technology Stack
+
+## Backend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nestjs" />
 </p>
 
-## Frontend
+---
+
+## Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
+
+---
 
 ## Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,nginx,git" />
 </p>
+
+---
 
 ## Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-## AI / ML
+---
+
+## AI / Machine Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Databases-7B1FA2?style=for-the-badge" />
 
 </p>
 
-## Tools
+---
+
+## Tools & Workflow
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,bash" />
@@ -148,35 +242,36 @@ Architecture Reviews
 
 ---
 
-# 🚀 What I Build
+# 🏗️ What I Build
 
-### 🤖 AI Applications
+## 🤖 AI Products
 
-* LLM Workflows
 * AI Agents
-* RAG Systems
-* Prompt Engineering
+* RAG Applications
+* LLM Workflows
+* Prompt Engineering Solutions
+* Knowledge Systems
 
-### 🌐 Full Stack Platforms
+## 🌐 Full Stack Platforms
 
-* Enterprise Applications
 * SaaS Products
-* Internal Tools
+* Enterprise Applications
+* Internal Business Tools
 * Customer Portals
 
-### ☁️ Cloud Systems
+## ☁️ Cloud Infrastructure
 
-* AWS Infrastructure
+* AWS Architectures
+* Containerized Systems
 * Microservices
-* Distributed Systems
-* High Availability Platforms
+* Distributed Applications
 
-### 🕷️ Data & Automation
+## 🕷️ Data Platforms
 
 * Web Crawlers
+* Lead Generation Systems
 * Data Pipelines
-* Business Automation
-* API Integrations
+* ETL Automation
 
 ---
 
@@ -184,25 +279,35 @@ Architecture Reviews
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivmk&show_icons=true&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivmk&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivmk&layout=compact&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shivmk&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivmk&layout=compact&hide_border=true" /> -->
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivmk&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shivmk&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=shivmk&theme=algolia&no-frame=true&column=7" /> -->
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivmk&theme=github-compact" />
 
 </div>
 
@@ -213,11 +318,13 @@ Architecture Reviews
 ```text
 ✔ Build for Scale
 ✔ Automate Everything
-✔ Clean Architecture
+✔ Design Before Coding
+✔ Clean Architecture Matters
 ✔ Performance First
 ✔ Security by Design
 ✔ Developer Experience Matters
 ✔ Ship Fast, Improve Continuously
+✔ Build Products That Create Value
 ```
 
 ---
@@ -228,8 +335,14 @@ Architecture Reviews
 
 Building products, systems, and AI solutions that solve real-world problems.
 
+<br><br>
+
 <a href="https://www.linkedin.com/in/shivajikattimani/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://shivajikattimani.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
 </a>
 
 </div>
@@ -238,6 +351,6 @@ Building products, systems, and AI solutions that solve real-world problems.
 
 <div align="center">
 
-### ⚡ "Design scalable systems. Build impactful products. Automate the impossible."
+### ⚡ Design Scalable Systems • Build Impactful Products • Automate the Impossible
 
 </div>
